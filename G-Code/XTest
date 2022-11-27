@@ -1,0 +1,11 @@
+G21 G90     ; Setup CNC for mm and absolute position
+$H          ; Homing Of CNC
+G0 X100     ; Travel halfway down the CNC
+G4 P5       ; Pause for 2 seconds
+G0 X836      ; Go to home position
+G4 P5      ; Pause for 2 seconds
+G0 X436     ; Go to end of CNC
+G4 P0.5       ; Pause for 2 seconds
+G1 X0 F1000
+G4 P0.5
+G0 X436
