@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={7622B989-6002-4046-A22C-12D19478FB9D}
+DistPackageGUID={7BE87D7E-A267-4C7D-A54E-63F10D13C9A2}
+DistributionVersion=1.0.2
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=LabVIEW Runtime Install.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
