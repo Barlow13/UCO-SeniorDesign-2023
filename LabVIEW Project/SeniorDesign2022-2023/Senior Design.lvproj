@@ -230,7 +230,7 @@
 				<Property Name="INST_defaultDir" Type="Str">{36737B2B-714F-48D1-8A90-0ACDC83D5707}</Property>
 				<Property Name="INST_installerName" Type="Str">LabVIEW Runtime Install.exe</Property>
 				<Property Name="INST_productName" Type="Str">APN</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.3</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.4</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">21018002</Property>
 				<Property Name="MSI_arpCompany" Type="Str">University of Central Oklahoma</Property>
