@@ -56,7 +56,6 @@
 			<Item Name="Check Loop Error.vi" Type="VI" URL="../support/Check Loop Error.vi"/>
 			<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/Error Handler - Event Handling Loop.vi"/>
 			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/Error Handler - Message Handling Loop.vi"/>
-			<Item Name="Jog.vi" Type="VI" URL="../Jog.vi"/>
 			<Item Name="GRBL INFO.vi" Type="VI" URL="../GRBL INFO.vi"/>
 			<Item Name="Reinitialize Front Panel.vi" Type="VI" URL="../Reinitialize Front Panel.vi"/>
 			<Item Name="Running GCODE.vi" Type="VI" URL="../Running GCODE.vi"/>
@@ -64,10 +63,8 @@
 			<Item Name="Tab Setup.vi" Type="VI" URL="../Tab Setup.vi"/>
 			<Item Name="File to Gcode.vi" Type="VI" URL="../File to Gcode.vi"/>
 			<Item Name="Go To Position.vi" Type="VI" URL="../Go To Position.vi"/>
-			<Item Name="Jog GCODE.vi" Type="VI" URL="../../../../../Downloads/GRBL 1.1/GRBL 1.1/Jog GCODE.vi"/>
 			<Item Name="Spindle Speed.vi" Type="VI" URL="../Spindle Speed.vi"/>
 			<Item Name="Config.vi" Type="VI" URL="../Config.vi"/>
-			<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
